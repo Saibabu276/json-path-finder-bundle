@@ -13,5 +13,5 @@ What are you waiting for, just grab it [here](https://github.com/Saibabu276/json
 ## How to install?
 After downloading vsix file just follow the below steps. That's it.
 
-![installation guide](https://raw.githubusercontent.com/Saibabu276/json-path-finder-bundle/main/guide.gif)
+![installation guide](https://raw.githubusercontent.com/Saibabu276/json-path-finder-bundle/main/installGuide.gif)
 
